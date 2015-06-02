@@ -11,3 +11,4 @@ creating a new branch is quick and simple.
 
 old1
 new1
+1
